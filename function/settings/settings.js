@@ -16,13 +16,13 @@ global.setting = {
 global.info = {
  nomerbot : '212753828503',
  pairingNumber : '212753828503',
- figlet: 'silanalite', // create a start console display
+ figlet: 'livaylite', // create a start console display
  nomorwa : '212753828503',
  nameown : 'LMAJHOUL',
  nomerown : '212753828503',
  packname : 'sticker by ',
  author : 'LIVAY AI',
- namebot : '乂 'SILANA AI',
+ namebot : '乂 'LIVAY AI',
  wm : 'LIVAY LITE.',
  stickpack : 'Whatsapp',
  stickauth 'SILIVAYITE'E',
