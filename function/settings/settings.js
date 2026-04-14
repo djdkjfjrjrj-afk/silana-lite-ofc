@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
+ nomerbot : '212753828503',
  pairingNumber : '212605784394',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
+ nameown : 'LMAJHOUL',
  nomerown : '212717457920',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'LiVAY AI',
+ namebot : '乂 LiVAY AI',
+ wm : 'LiVAY LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'LiVAY LITE',
  jid: '@s.whatsapp.net'
 }
 
